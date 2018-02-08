@@ -1,0 +1,2 @@
+# Syntax Pro WordPress Plugin
+Protect code examples in the WordPress editor from being modified/destroyed by WordPress filters. Highlight code examples on the front end with Prism.js syntax highlighter.
